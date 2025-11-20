@@ -143,10 +143,6 @@ The output GeoTIFF can be visualized using:
 - **Few training points:** GEDI coverage is sparse; use larger regions
 - **Memory errors:** Use server-side script or reduce `MAX_SAMPLES`
 
-## License
-
-[Add your license here]
-
 ## References
 
 - GEDI Mission: https://gedi.umd.edu/
